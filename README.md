@@ -71,3 +71,4 @@ contributed patches.)
 * @kamipo: send a bug report.
 * ongaeshi: sent a patch to build gem on Windows.
 * mallowlabs: send a patch.
+
